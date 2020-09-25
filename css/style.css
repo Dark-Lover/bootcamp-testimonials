@@ -40,6 +40,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding-bottom: 20px;
 }
 
 .quote {
@@ -71,7 +72,7 @@ body {
   justify-content: center;
 }
 .pic {
-  background: url(/images/image-tanya.jpg) no-repeat center;
+  background: url(/images/image-tanya.jpg) no-repeat;
   background-size: cover;
   height: 80%;
   width: 80%;
